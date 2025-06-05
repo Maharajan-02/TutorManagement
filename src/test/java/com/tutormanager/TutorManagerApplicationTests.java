@@ -1,4 +1,4 @@
-package com.tutorManager;
+package com.tutormanager;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -8,6 +8,7 @@ class TutorManagerApplicationTests {
 
 	@Test
 	void contextLoads() {
-	}
+   // TODO this method is empty
+ }
 
 }

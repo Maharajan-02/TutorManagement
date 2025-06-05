@@ -1,4 +1,4 @@
-package com.tutorManager;
+package com.tutormanager;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
